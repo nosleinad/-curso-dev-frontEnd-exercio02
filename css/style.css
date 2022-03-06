@@ -1,0 +1,56 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+html body {
+    width: 65%;
+    margin: 50px 0px 150px 150px;
+    font-family: sans-serif;
+} 
+h1 small {
+    margin: 15px;
+}
+
+p {
+    margin: 15px;
+    font-size: 18px;
+    text-indent: 50px;
+    text-align: justify;   
+}
+
+img {
+    margin: 10px 100px 10px 100px;
+    width: 80%;
+}
+
+sup {
+    font-size: 10px;
+    
+}
+
+.verde {
+    background-color: #00ff00 ;
+}
+
+.vermelho {
+    background-color: #ff0000;
+}
+
+.azul {
+    background-color: #0000ff;
+}
+
+.rosa {
+    background-color: #ff00ff;
+}
+
+figcaption {
+    font-size: 10px;
+    text-align: center;
+    
+ 
+    
+}
+
+
